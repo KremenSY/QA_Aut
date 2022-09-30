@@ -1,0 +1,1662 @@
+1664346548435	geckodriver	INFO	Listening on 127.0.0.1:50708
+1664346551493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilea7omrK"
+1664346551832	Marionette	INFO	Marionette enabled
+1664346551837	Marionette	INFO	Listening on port 50718
+WebDriver BiDi listening on ws://127.0.0.1:50709
+Read port: 50718
+1664346552090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilea7omrK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50709/devtools/browser/7f5f0e04-3099-4404-8324-5643f289a7c8
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1664346585180	Marionette	INFO	Stopped listening on port 50718
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1664346586690	geckodriver	INFO	Listening on 127.0.0.1:50745
+1664346589736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50746" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileAqLuvf"
+1664346590055	Marionette	INFO	Marionette enabled
+1664346590060	Marionette	INFO	Listening on port 50755
+Read port: 50755
+WebDriver BiDi listening on ws://127.0.0.1:50746
+1664346590145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileAqLuvf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50746/devtools/browser/3166d47f-7d76-461f-b099-01aa2ee44b93
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664347184346	Marionette	INFO	Stopped listening on port 50755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilefp7MNI"
+1664347182081	Marionette	INFO	Marionette enabled
+1664347182086	Marionette	INFO	Listening on port 50962
+WebDriver BiDi listening on ws://127.0.0.1:50951
+Read port: 50962
+1664347182311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilefp7MNI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50951/devtools/browser/2b78b012-5176-43fa-9dc3-88fa5866ec9f
+1664347186046	Marionette	INFO	Stopped listening on port 50962
+[Parent 9304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664347680431	geckodriver	INFO	Listening on 127.0.0.1:51068
+1664347683487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileBKrBh8"
+1664347683820	Marionette	INFO	Marionette enabled
+1664347683825	Marionette	INFO	Listening on port 51078
+WebDriver BiDi listening on ws://127.0.0.1:51069
+Read port: 51078
+1664347684051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileBKrBh8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51069/devtools/browser/1ad17e9e-6e5f-49b4-b185-b9dea8e6d86e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1664347688525	Marionette	INFO	Stopped listening on port 51078
+1664349377969	geckodriver	INFO	Listening on 127.0.0.1:51380
+1664349381030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilebRdc7X"
+1664349381374	Marionette	INFO	Marionette enabled
+1664349381379	Marionette	INFO	Listening on port 51390
+WebDriver BiDi listening on ws://127.0.0.1:51381
+Read port: 51390
+1664349381597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilebRdc7X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51381/devtools/browser/67ebb44e-00a6-415e-b28a-3d7da8888816
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664349404342	Marionette	INFO	Stopped listening on port 51390
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664349523711	geckodriver	INFO	Listening on 127.0.0.1:51511
+1664349526770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilePxgYih"
+1664349527093	Marionette	INFO	Marionette enabled
+1664349527097	Marionette	INFO	Listening on port 51521
+Read port: 51521
+WebDriver BiDi listening on ws://127.0.0.1:51512
+1664349527202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilePxgYih\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51512/devtools/browser/913aa60c-d5cf-42b4-af1c-838db28ddcfd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664353155775	Marionette	INFO	Stopped listening on port 51521
+rionette	INFO	Marionette enabled
+1664350282108	Marionette	INFO	Listening on port 51794
+WebDriver BiDi listening on ws://127.0.0.1:51785
+Read port: 51794
+1664350282322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileuwsU2v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51785/devtools/browser/4c0f8b81-e4bc-4206-a0c3-091cd83cff60
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664350289730	Marionette	INFO	Stopped listening on port 51794
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664350589029	geckodriver	INFO	Listening on 127.0.0.1:52045
+1664350592062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofiletCHPEj"
+1664350592400	Marionette	INFO	Marionette enabled
+1664350592404	Marionette	INFO	Listening on port 52057
+WebDriver BiDi listening on ws://127.0.0.1:52046
+Read port: 52057
+1664350592618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofiletCHPEj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52046/devtools/browser/81651bd6-98aa-4825-9f19-30cc40b0a1c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664351485201	Marionette	INFO	Stopped listening on port 52057
+rowser/d111a806-4e16-4603-88c7-c56747e6611e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664350748305	Marionette	INFO	Stopped listening on port 52185
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664350777024	geckodriver	INFO	Listening on 127.0.0.1:52277
+1664350780092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileHZgz70"
+1664350780422	Marionette	INFO	Marionette enabled
+1664350780426	Marionette	INFO	Listening on port 52287
+WebDriver BiDi listening on ws://127.0.0.1:52278
+Read port: 52287
+1664350780641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileHZgz70\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52278/devtools/browser/cf88973b-c485-49a8-a7d4-48ba12e881b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664351479111	Marionette	INFO	Stopped listening on port 52287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664351488567	geckodriver	INFO	Listening on 127.0.0.1:52558
+1664351491635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileRbUXOx"
+1664351491985	Marionette	INFO	Marionette enabled
+1664351491990	Marionette	INFO	Listening on port 52568
+WebDriver BiDi listening on ws://127.0.0.1:52559
+Read port: 52568
+1664351492221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileRbUXOx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52559/devtools/browser/f89a785c-e5ad-4cd2-88d2-5bc577ca5bb3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664351518279	Marionette	INFO	Stopped listening on port 52568
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664351526678	geckodriver	INFO	Listening on 127.0.0.1:52664
+1664351529703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileHKbJb4"
+1664351530120	Marionette	INFO	Marionette enabled
+1664351530127	Marionette	INFO	Listening on port 52674
+Read port: 52674
+WebDriver BiDi listening on ws://127.0.0.1:52665
+1664351530216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileHKbJb4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52665/devtools/browser/48523012-7636-4417-8f7a-55a4766957ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664351544451	Marionette	INFO	Stopped listening on port 52674
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664353230950	geckodriver	INFO	Listening on 127.0.0.1:53115
+1664353233979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile2RbXUo"
+1664353234314	Marionette	INFO	Marionette enabled
+1664353234318	Marionette	INFO	Listening on port 53125
+WebDriver BiDi listening on ws://127.0.0.1:53116
+Read port: 53125
+1664353234523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile2RbXUo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53116/devtools/browser/ac8002bd-5bee-4fb0-b40c-28542394758f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664353333539	Marionette	INFO	Stopped listening on port 53125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664353335384	geckodriver	INFO	Listening on 127.0.0.1:53220
+1664353338454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilez9uXUd"
+1664353338789	Marionette	INFO	Marionette enabled
+1664353338794	Marionette	INFO	Listening on port 53230
+WebDriver BiDi listening on ws://127.0.0.1:53221
+Read port: 53230
+1664353339027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilez9uXUd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53221/devtools/browser/a74c02e5-5de9-4fea-b133-7e4e41a3adf9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664353371342	Marionette	INFO	Stopped listening on port 53230
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664353664690	geckodriver	INFO	Listening on 127.0.0.1:53337
+1664353667772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileYqXei0"
+1664353668127	Marionette	INFO	Marionette enabled
+1664353668131	Marionette	INFO	Listening on port 53347
+WebDriver BiDi listening on ws://127.0.0.1:53338
+Read port: 53347
+1664353668383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileYqXei0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53338/devtools/browser/a488d3d8-3253-440b-beea-287025239106
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664354089773	Marionette	INFO	Stopped listening on port 53347
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileCNmuf2"
+1664353850940	Marionette	INFO	Marionette enabled
+1664353850946	Marionette	INFO	Listening on port 53460
+WebDriver BiDi listening on ws://127.0.0.1:53451
+Read port: 53460
+1664353851156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileCNmuf2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53451/devtools/browser/5105452a-1b47-4f0a-bb4c-287736cf5fe5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664353914725	Marionette	INFO	Stopped listening on port 53460
+1664354105498	geckodriver	INFO	Listening on 127.0.0.1:53607
+1664354108561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileVEA3Lo"
+1664354108881	Marionette	INFO	Marionette enabled
+1664354108885	Marionette	INFO	Listening on port 53617
+Read port: 53617
+WebDriver BiDi listening on ws://127.0.0.1:53608
+1664354108967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileVEA3Lo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53608/devtools/browser/e4d6069e-3144-40d1-8665-3f2c38b2c837
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664354133091	Marionette	INFO	Stopped listening on port 53617
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664354141149	geckodriver	INFO	Listening on 127.0.0.1:53715
+1664354144186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileEApGcp"
+1664354144513	Marionette	INFO	Marionette enabled
+1664354144518	Marionette	INFO	Listening on port 53725
+Read port: 53725
+WebDriver BiDi listening on ws://127.0.0.1:53716
+1664354144599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileEApGcp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53716/devtools/browser/b59dbb9e-9bb9-4312-b46a-bd1c61c4f066
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664354314182	Marionette	INFO	Stopped listening on port 53725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileXEZrDH"
+1664354256844	Marionette	INFO	Marionette enabled
+1664354256848	Marionette	INFO	Listening on port 53844
+WebDriver BiDi listening on ws://127.0.0.1:53835
+Read port: 53844
+1664354257048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileXEZrDH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53835/devtools/browser/03800435-1f00-4e20-93d1-3bd8ead7344c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664354310999	Marionette	INFO	Stopped listening on port 53844
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664354669998	geckodriver	INFO	Listening on 127.0.0.1:54017
+1664354673076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileX3WDzV"
+1664354673393	Marionette	INFO	Marionette enabled
+1664354673397	Marionette	INFO	Listening on port 54027
+Read port: 54027
+WebDriver BiDi listening on ws://127.0.0.1:54018
+1664354673478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileX3WDzV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54018/devtools/browser/c19c1036-c16a-4209-9d50-93a099bb5b5c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664354692718	Marionette	INFO	Stopped listening on port 54027
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664354699681	geckodriver	INFO	Listening on 127.0.0.1:54124
+1664354702751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileJeElGG"
+1664354703079	Marionette	INFO	Marionette enabled
+1664354703083	Marionette	INFO	Listening on port 54134
+Read port: 54134
+WebDriver BiDi listening on ws://127.0.0.1:54125
+1664354703177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileJeElGG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54125/devtools/browser/0dc896d2-0719-41b3-81dd-f7c1025199e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664354717686	Marionette	INFO	Stopped listening on port 54134
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664354732701	geckodriver	INFO	Listening on 127.0.0.1:54222
+1664354735752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilepE58oB"
+1664354736084	Marionette	INFO	Marionette enabled
+1664354736088	Marionette	INFO	Listening on port 54232
+WebDriver BiDi listening on ws://127.0.0.1:54223
+Read port: 54232
+1664354736315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilepE58oB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54223/devtools/browser/095b51df-a6c2-451f-91d4-3d72c431a4a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664354755649	Marionette	INFO	Stopped listening on port 54232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664354787469	geckodriver	INFO	Listening on 127.0.0.1:54324
+1664354790535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile3ES1aW"
+1664354790862	Marionette	INFO	Marionette enabled
+1664354790867	Marionette	INFO	Listening on port 54334
+WebDriver BiDi listening on ws://127.0.0.1:54325
+Read port: 54334
+1664354791119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile3ES1aW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54325/devtools/browser/02f1fae0-4885-4cd1-97e4-c5d6223f6288
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664354809085	Marionette	INFO	Stopped listening on port 54334
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664354824596	geckodriver	INFO	Listening on 127.0.0.1:54437
+1664354827663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilef2sGmK"
+1664354827985	Marionette	INFO	Marionette enabled
+1664354827989	Marionette	INFO	Listening on port 54447
+Read port: 54447
+WebDriver BiDi listening on ws://127.0.0.1:54438
+1664354828071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilef2sGmK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54438/devtools/browser/120fa8e0-f0de-40c9-85bc-11727924ee4c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664355012041	Marionette	INFO	Stopped listening on port 54447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilearFPLR"
+1664354927200	Marionette	INFO	Marionette enabled
+1664354927205	Marionette	INFO	Listening on port 54546
+WebDriver BiDi listening on ws://127.0.0.1:54535
+Read port: 54546
+1664354927411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilearFPLR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54535/devtools/browser/969224ed-3a32-4fa2-9924-7b6ca7083d86
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664355005357	Marionette	INFO	Stopped listening on port 54546
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileTQcwE5"
+1664354987608	Marionette	INFO	Marionette enabled
+1664354987612	Marionette	INFO	Listening on port 54639
+Read port: 54639
+WebDriver BiDi listening on ws://127.0.0.1:54630
+1664354987698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileTQcwE5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54630/devtools/browser/a9ad5f23-3678-4e23-b297-974d0a57a21b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664355002020	Marionette	INFO	Stopped listening on port 54639
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664355297436	geckodriver	INFO	Listening on 127.0.0.1:54756
+1664355300512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileR4S1EW"
+1664355300837	Marionette	INFO	Marionette enabled
+1664355300842	Marionette	INFO	Listening on port 54766
+Read port: 54766
+WebDriver BiDi listening on ws://127.0.0.1:54757
+1664355300926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileR4S1EW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54757/devtools/browser/0600246c-4038-44a2-9a14-e1c6aca3b69f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664355315259	Marionette	INFO	Stopped listening on port 54766
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664355417331	geckodriver	INFO	Listening on 127.0.0.1:54864
+1664355420411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileq3ZVDn"
+1664355420747	Marionette	INFO	Marionette enabled
+1664355420751	Marionette	INFO	Listening on port 54874
+WebDriver BiDi listening on ws://127.0.0.1:54865
+Read port: 54874
+1664355420957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileq3ZVDn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54865/devtools/browser/b250d7ab-9194-4e30-8984-63cb29844cec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664355448488	Marionette	INFO	Stopped listening on port 54871664355449285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile0f2GCq"
+1664355449646	Marionette	INFO	Marionette enabled
+1664355449651	Marionette	INFO	Listening on port 54969
+WebDriver BiDi listening on ws://127.0.0.1:54957
+Read port: 54969
+1664355449861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile0f2GCq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54957/devtools/browser/69ab9577-d1b4-4682-b01f-d75ef48e5240
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664355531644	Marionette	INFO	Stopped listening on port 54969
+1664355559042	geckodriver	INFO	Listening on 127.0.0.1:55069
+1664355562098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55070" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileqBgISt"
+1664355562439	Marionette	INFO	Marionette enabled
+1664355562443	Marionette	INFO	Listening on port 55079
+WebDriver BiDi listening on ws://127.0.0.1:55070
+Read port: 55079
+1664355562660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileqBgISt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55070/devtools/browser/2ae25f8e-6073-4414-85f6-2325316e146b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664355571842	Marionette	INFO	Stopped listening on port 55079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664355601985	geckodriver	INFO	Listening on 127.0.0.1:55164
+1664355605037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilerMUUbX"
+1664355605360	Marionette	INFO	Marionette enabled
+1664355605364	Marionette	INFO	Listening on port 55174
+Read port: 55174
+WebDriver BiDi listening on ws://127.0.0.1:55165
+1664355605445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilerMUUbX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55165/devtools/browser/aa4d8b97-dadf-421c-ab25-38e737b85e2c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664355733117	Marionette	INFO	Stopped listening on port 55174
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664355808762	geckodriver	INFO	Listening on 127.0.0.1:55327
+1664355811829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileGxeUqi"
+1664355812152	Marionette	INFO	Marionette enabled
+1664355812158	Marionette	INFO	Listening on port 55337
+WebDriver BiDi listening on ws://127.0.0.1:55328
+Read port: 55337
+1664355812420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileGxeUqi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55328/devtools/browser/29edc231-7cd0-46fa-94d6-bc8445538e6b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664355825337	Marionette	INFO	Stopped listening on port 55337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664355905679	geckodriver	INFO	Listening on 127.0.0.1:55453
+1664355908718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilejqTaU1"
+1664355909070	Marionette	INFO	Marionette enabled
+1664355909074	Marionette	INFO	Listening on port 55463
+WebDriver BiDi listening on ws://127.0.0.1:55454
+Read port: 55463
+1664355909283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilejqTaU1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55454/devtools/browser/cd1e4934-50c1-449a-a81d-abf546c37121
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664356023751	Marionette	INFO	Stopped listening on port 55463
+1664356028786	geckodriver	INFO	Listening on 127.0.0.1:55595
+1664356031822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55596" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilev3imBx"
+1664356032169	Marionette	INFO	Marionette enabled
+1664356032173	Marionette	INFO	Listening on port 55605
+WebDriver BiDi listening on ws://127.0.0.1:55596
+Read port: 55605
+1664356032395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilev3imBx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55596/devtools/browser/92cc82e7-44c9-4944-8557-e111ab5a42b7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356048449	Marionette	INFO	Stopped listening on port 55605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664356263948	geckodriver	INFO	Listening on 127.0.0.1:55786
+1664356266995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileVTKzYa"
+1664356267345	Marionette	INFO	Marionette enabled
+1664356267349	Marionette	INFO	Listening on port 55796
+WebDriver BiDi listening on ws://127.0.0.1:55787
+Read port: 55796
+1664356267568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileVTKzYa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55787/devtools/browser/aa4e2f57-4cf8-4a62-9bf9-22cf5ba4199a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356288755	Marionette	INFO	Stopped listening on port 55796
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664356291255	geckodriver	INFO	Listening on 127.0.0.1:55879
+1664356294308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile3FTn3d"
+1664356294649	Marionette	INFO	Marionette enabled
+1664356294653	Marionette	INFO	Listening on port 55889
+WebDriver BiDi listening on ws://127.0.0.1:55880
+Read port: 55889
+1664356294873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile3FTn3d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55880/devtools/browser/205f2cf9-8d0b-47c0-980c-8f60d3535406
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356309830	Marionette	INFO	Stopped listening on port 55889
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664356316341	geckodriver	INFO	Listening on 127.0.0.1:55970
+1664356319428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileyf6lA2"
+1664356319763	Marionette	INFO	Marionette enabled
+1664356319769	Marionette	INFO	Listening on port 55980
+WebDriver BiDi listening on ws://127.0.0.1:55971
+Read port: 55980
+1664356319979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileyf6lA2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55971/devtools/browser/bc80174a-b8a0-4e88-9974-7cdcc7dcea40
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356834237	Marionette	INFO	Stopped listening on port 55980
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileqDxu26"
+1664356702789	Marionette	INFO	Marionette enabled
+1664356702794	Marionette	INFO	Listening on port 56164
+WebDriver BiDi listening on ws://127.0.0.1:56155
+Read port: 56164
+1664356703017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileqDxu26\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56155/devtools/browser/d6b49160-7470-4c48-a116-f5ef34a2b3b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356731218	Marionette	INFO	Stopped listening on port 56164
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664356740612	geckodriver	INFO	Listening on 127.0.0.1:56253
+1664356743668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile4nzV7a"
+1664356744026	Marionette	INFO	Marionette enabled
+1664356744030	Marionette	INFO	Listening on port 56263
+WebDriver BiDi listening on ws://127.0.0.1:56254
+Read port: 56263
+1664356744255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile4nzV7a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56254/devtools/browser/9c3f4530-82bd-4909-afe9-dd05c431c41a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356783370	Marionette	INFO	Stopped listening on port 56263
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664356784768	geckodriver	INFO	Listening on 127.0.0.1:56346
+1664356787843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileJvBaNo"
+1664356788189	Marionette	INFO	Marionette enabled
+1664356788193	Marionette	INFO	Listening on port 56356
+WebDriver BiDi listening on ws://127.0.0.1:56347
+Read port: 56356
+1664356788405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileJvBaNo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56347/devtools/browser/7e0e8189-ee9b-42f3-bb2d-770a051087e9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356807941	Marionette	INFO	Stopped listening on port 56351664356809484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileD2DKZS"
+1664356809835	Marionette	INFO	Marionette enabled
+1664356809839	Marionette	INFO	Listening on port 56464
+WebDriver BiDi listening on ws://127.0.0.1:56453
+Read port: 56464
+1664356810037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileD2DKZS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56453/devtools/browser/5a4601ff-5369-42e7-ba3b-a82d5d255040
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356840985	Marionette	INFO	Stopped listening on port 56464
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664356844677	geckodriver	INFO	Listening on 127.0.0.1:56565
+1664356847748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56566" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile40pcoo"
+1664356848090	Marionette	INFO	Marionette enabled
+1664356848096	Marionette	INFO	Listening on port 56575
+WebDriver BiDi listening on ws://127.0.0.1:56566
+Read port: 56575
+1664356848299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile40pcoo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56566/devtools/browser/741c07c7-603a-4c8d-9141-1762892c91db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356863687	Marionette	INFO	Stopped listening on port 56575
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664356865156	geckodriver	INFO	Listening on 127.0.0.1:56665
+1664356868236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileQt7eyv"
+1664356868592	Marionette	INFO	Marionette enabled
+1664356868596	Marionette	INFO	Listening on port 56675
+WebDriver BiDi listening on ws://127.0.0.1:56666
+Read port: 56675
+1664356868821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileQt7eyv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56666/devtools/browser/8c71e953-d803-43b3-b926-b7a06f79865c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356890456	Marionette	INFO	Stopped listening on port 56675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664356931134	geckodriver	INFO	Listening on 127.0.0.1:56769
+1664356934196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileB512Xa"
+1664356934539	Marionette	INFO	Marionette enabled
+1664356934545	Marionette	INFO	Listening on port 56779
+WebDriver BiDi listening on ws://127.0.0.1:56770
+Read port: 56779
+1664356934776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileB512Xa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56770/devtools/browser/dda1bc99-925d-4cdd-bde6-0b75d7671f3f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664356947561	Marionette	INFO	Stopped listening on port 56779
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664356971488	geckodriver	INFO	Listening on 127.0.0.1:56861
+1664356974535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileyZykdZ"
+1664356974847	Marionette	INFO	Marionette enabled
+1664356974851	Marionette	INFO	Listening on port 56872
+Read port: 56872
+WebDriver BiDi listening on ws://127.0.0.1:56862
+1664356974943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileyZykdZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56862/devtools/browser/5fe098ef-301a-4d7e-b0d5-301b0e270b4e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664358114104	Marionette	INFO	Stopped listening on port 56872
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofiley2z26x"
+1664357040970	Marionette	INFO	Marionette enabled
+1664357040974	Marionette	INFO	Listening on port 56973
+WebDriver BiDi listening on ws://127.0.0.1:56964
+Read port: 56973
+1664357041204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofiley2z26x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56964/devtools/browser/f906d21d-0083-402e-96e5-80363aa39361
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664358113169	Marionette	INFO	Stopped listening on port 56973
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilejidsjV"
+1664357876241	Marionette	INFO	Marionette enabled
+1664357876245	Marionette	INFO	Listening on port 57248
+WebDriver BiDi listening on ws://127.0.0.1:57239
+Read port: 57248
+1664357876458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilejidsjV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57239/devtools/browser/164fe10d-1d6e-400d-8c10-30c43fce4cff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664357912663	Marionette	INFO	Stopped listening on port 57248
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664357914020	geckodriver	INFO	Listening on 127.0.0.1:57330
+1664357917084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilewwOTVP"
+1664357917426	Marionette	INFO	Marionette enabled
+1664357917430	Marionette	INFO	Listening on port 57340
+WebDriver BiDi listening on ws://127.0.0.1:57331
+Read port: 57340
+1664357917662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilewwOTVP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57331/devtools/browser/1a8f62d4-22be-4f26-9132-7d17099959ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664363125467	Marionette	INFO	Stopped listening on port 57340
+.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664358341963	Marionette	INFO	Stopped listening on port 57501
+[Parent 1324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664358343278	geckodriver	INFO	Listening on 127.0.0.1:57616
+1664358346365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile2QnVJ5"
+1664358346738	Marionette	INFO	Marionette enabled
+1664358346742	Marionette	INFO	Listening on port 57626
+WebDriver BiDi listening on ws://127.0.0.1:57617
+Read port: 57626
+1664358346909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile2QnVJ5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57617/devtools/browser/f4a7c77b-6689-403d-9bc5-484aaa56296f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+1664363126440	Marionette	INFO	Stopped listening on port 57626
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilerIZw8E"
+1664358433852	Marionette	INFO	Marionette enabled
+1664358433856	Marionette	INFO	Listening on port 57769
+WebDriver BiDi listening on ws://127.0.0.1:57760
+Read port: 57769
+1664358434085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilerIZw8E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57760/devtools/browser/17e710ee-0ca5-4511-9734-b604ae3e7149
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664363122225	Marionette	INFO	Stopped listening on port 57769
+[Parent 15356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664363129877	geckodriver	INFO	Listening on 127.0.0.1:58247
+1664363132941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilegJ4rQw"
+1664363133284	Marionette	INFO	Marionette enabled
+1664363133289	Marionette	INFO	Listening on port 58257
+WebDriver BiDi listening on ws://127.0.0.1:58248
+Read port: 58257
+1664363133526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilegJ4rQw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58248/devtools/browser/8e69d575-d09a-4599-b051-e98730c6aa3d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967326/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967326/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967326/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:301:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664364450646	Marionette	INFO	Stopped listening on port 58257
+e at C:\\Temp\\rust_mozprofileJxZSek\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58464/devtools/browser/789ca326-1f31-43a2-a7bc-326fe62f1745
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664363932522	Marionette	INFO	Stopped listening on port 58473
+1664363935562	geckodriver	INFO	Listening on 127.0.0.1:58572
+1664363938623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileKNEaq3"
+1664363938984	Marionette	INFO	Marionette enabled
+1664363938988	Marionette	INFO	Listening on port 58582
+WebDriver BiDi listening on ws://127.0.0.1:58573
+Read port: 58582
+1664363939229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileKNEaq3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58573/devtools/browser/369774af-8e43-43ed-91cb-50fda1a267c4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664364263001	Marionette	INFO	Stopped listening on port 58582
+[Parent 18388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ession
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileeuo6oq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58700/devtools/browser/d8e1f22a-e0ba-4e17-9989-d998343bd5f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664364257168	Marionette	INFO	Stopped listening on port 58709
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664364264605	geckodriver	INFO	Listening on 127.0.0.1:58804
+1664364267669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileTlMOSg"
+1664364268006	Marionette	INFO	Marionette enabled
+1664364268010	Marionette	INFO	Listening on port 58814
+WebDriver BiDi listening on ws://127.0.0.1:58805
+Read port: 58814
+1664364268263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileTlMOSg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58805/devtools/browser/1850ec6f-2ef3-4395-b56e-086ac989fd07
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664364352909	Marionette	INFO	Stopped listening on port 58814
+1664364354319	geckodriver	INFO	Listening on 127.0.0.1:58907
+1664364357378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileHkqjcz"
+1664364357713	Marionette	INFO	Marionette enabled
+1664364357717	Marionette	INFO	Listening on port 58917
+WebDriver BiDi listening on ws://127.0.0.1:58908
+Read port: 58917
+1664364357938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileHkqjcz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58908/devtools/browser/ab6e601c-c62a-4a2e-934a-1f1d90062f91
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664364368810	Marionette	INFO	Stopped listening on port 58917
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664364371351	geckodriver	INFO	Listening on 127.0.0.1:59004
+1664364374423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilewjpzRg"
+1664364374744	Marionette	INFO	Marionette enabled
+1664364374750	Marionette	INFO	Listening on port 59014
+Read port: 59014
+WebDriver BiDi listening on ws://127.0.0.1:59005
+1664364374839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilewjpzRg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59005/devtools/browser/6fd72fa2-f1d4-48d2-a446-53cb28b02fbb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664364441411	Marionette	INFO	Stopped listening on port 59014
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664364444796	geckodriver	INFO	Listening on 127.0.0.1:59104
+1664364447831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofiletNXdLC"
+1664364448176	Marionette	INFO	Marionette enabled
+1664364448180	Marionette	INFO	Listening on port 59119
+WebDriver BiDi listening on ws://127.0.0.1:59105
+Read port: 59119
+1664364448379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofiletNXdLC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59105/devtools/browser/55d62d85-dace-4b70-8eaf-61c905afc554
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664364500726	Marionette	INFO	Stopped listening on port 59119
+1664364502692	geckodriver	INFO	Listening on 127.0.0.1:59228
+1664364505737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilezkC3sY"
+1664364506087	Marionette	INFO	Marionette enabled
+1664364506091	Marionette	INFO	Listening on port 59238
+WebDriver BiDi listening on ws://127.0.0.1:59229
+Read port: 59238
+1664364506288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilezkC3sY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59229/devtools/browser/3f31a41a-116d-411a-8e7c-a1e6aef34c05
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664364604887	Marionette	INFO	Stopped listening on port 59238
+1664364608518	geckodriver	INFO	Listening on 127.0.0.1:59332
+1664364611576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile0mEtSW"
+1664364611922	Marionette	INFO	Marionette enabled
+1664364611930	Marionette	INFO	Listening on port 59342
+WebDriver BiDi listening on ws://127.0.0.1:59333
+Read port: 59342
+1664364612144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile0mEtSW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59333/devtools/browser/9eba48ac-6e5e-4bea-84c0-d513e9de03e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilebi7uIV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59440/devtools/browser/ad778d58-ae21-446d-bd30-0c07e5edc8b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664365114531	Marionette	INFO	Stopped listening on port 59449
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+gs: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilekBmqS0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59554/devtools/browser/83fbe472-3641-4acf-88e0-6d36cb83962f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664365090384	Marionette	INFO	Stopped listening on port 59563
+[Parent 6788, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664365119005	geckodriver	INFO	Listening on 127.0.0.1:59698
+1664365122053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile6RtDjC"
+1664365122386	Marionette	INFO	Marionette enabled
+1664365122390	Marionette	INFO	Listening on port 59708
+WebDriver BiDi listening on ws://127.0.0.1:59699
+Read port: 59708
+1664365122605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile6RtDjC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59699/devtools/browser/7ce5abe4-6751-4165-a47e-6d32924fc51e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664365145710	Marionette	INFO	Stopped listening on port 59708
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365529705	geckodriver	INFO	Listening on 127.0.0.1:59826
+1664365532751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileGALrau"
+1664365533126	Marionette	INFO	Marionette enabled
+1664365533131	Marionette	INFO	Listening on port 59839
+WebDriver BiDi listening on ws://127.0.0.1:59827
+Read port: 59839
+1664365533312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileGALrau\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59827/devtools/browser/be08743d-a7e1-421e-a88d-c92f0f59d151
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664365554541	Marionette	INFO	Stopped listening on port 59839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365608436	geckodriver	INFO	Listening on 127.0.0.1:59920
+1664365611493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilelXcs3P"
+1664365611841	Marionette	INFO	Marionette enabled
+1664365611847	Marionette	INFO	Listening on port 59930
+WebDriver BiDi listening on ws://127.0.0.1:59921
+Read port: 59930
+1664365612068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilelXcs3P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59921/devtools/browser/525f6632-2247-4e8e-872c-757af78181b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664365662050	Marionette	INFO	Stopped listening on port 59930
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365664240	geckodriver	INFO	Listening on 127.0.0.1:60021
+1664365667308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60022" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileh4YqER"
+1664365667661	Marionette	INFO	Marionette enabled
+1664365667665	Marionette	INFO	Listening on port 60031
+WebDriver BiDi listening on ws://127.0.0.1:60022
+Read port: 60031
+1664365667876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileh4YqER\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60022/devtools/browser/27097be2-877e-4e67-adec-b9db28217620
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664365695425	Marionette	INFO	Stopped listening on port 60031
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365711424	geckodriver	INFO	Listening on 127.0.0.1:60125
+1664365714466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60126" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileaRYb0O"
+1664365714796	Marionette	INFO	Marionette enabled
+1664365714800	Marionette	INFO	Listening on port 60135
+Read port: 60135
+WebDriver BiDi listening on ws://127.0.0.1:60126
+1664365714888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileaRYb0O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60126/devtools/browser/1074c02e-a26d-4587-8ded-cd9f2051e899
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664365751603	Marionette	INFO	Stopped listening on port 60135
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365753326	geckodriver	INFO	Listening on 127.0.0.1:60219
+1664365756370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60220" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilehCWid0"
+1664365756712	Marionette	INFO	Marionette enabled
+1664365756717	Marionette	INFO	Listening on port 60229
+WebDriver BiDi listening on ws://127.0.0.1:60220
+Read port: 60229
+1664365756929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilehCWid0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60220/devtools/browser/d627832d-9295-4284-9cc8-39814821e8ef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664367097567	Marionette	INFO	Stopped listening on port 60229
+ecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664365849712	Marionette	INFO	Stopped listening on port 60327
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664366199248	geckodriver	INFO	Listening on 127.0.0.1:60451
+1664366202290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilenBISAQ"
+1664366202615	Marionette	INFO	Marionette enabled
+1664366202619	Marionette	INFO	Listening on port 60461
+WebDriver BiDi listening on ws://127.0.0.1:60452
+Read port: 60461
+1664366202850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilenBISAQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60452/devtools/browser/d9e22205-9525-47c2-bf50-85350e484362
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664367089372	Marionette	INFO	Stopped listening on port 60461
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+1664366344033	Marionette	INFO	Marionette enabled
+1664366344037	Marionette	INFO	Listening on port 60571
+WebDriver BiDi listening on ws://127.0.0.1:60562
+Read port: 60571
+1664366344257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilebEulxr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60562/devtools/browser/0fc642e5-61a0-4fad-ab17-166d2960a3fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 6244 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967315"
+console.error: "Unable to find target with innerWindowId:4294967315"
+console.error: "Unable to find target with innerWindowId:4294967315"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664367092753	Marionette	INFO	Stopped listening on port 60571
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 15704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+low-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileZXCGKf"
+1664366756630	Marionette	INFO	Marionette enabled
+1664366756634	Marionette	INFO	Listening on port 60885
+WebDriver BiDi listening on ws://127.0.0.1:60876
+Read port: 60885
+1664366756851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileZXCGKf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60876/devtools/browser/536a53a4-104a-49ee-85da-b7d29f50755a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664367094576	Marionette	INFO	Stopped listening on port 60885
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61052" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileIARXhk"
+1664366903092	Marionette	INFO	Marionette enabled
+1664366903097	Marionette	INFO	Listening on port 61061
+WebDriver BiDi listening on ws://127.0.0.1:61052
+Read port: 61061
+1664366903328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileIARXhk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61052/devtools/browser/10ae3739-db42-493e-831e-9df6a4ed62bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664367095307	Marionette	INFO	Stopped listening on port 61061
+er BiDi listening on ws://127.0.0.1:61156
+1664367033267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileXQqNTh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61156/devtools/browser/b838a4b9-2892-4ec6-b1e9-26c359106fcc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664367096427	Marionette	INFO	Stopped listening on port 61165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664367101761	geckodriver	INFO	Listening on 127.0.0.1:61272
+1664367104790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile5vWf8G"
+1664367105128	Marionette	INFO	Marionette enabled
+1664367105132	Marionette	INFO	Listening on port 61282
+WebDriver BiDi listening on ws://127.0.0.1:61273
+Read port: 61282
+1664367105371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile5vWf8G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61273/devtools/browser/cf410109-889b-4d3c-b6e6-2cdde491ffe0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664367158548	Marionette	INFO	Stopped listening on port 61282
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664367165715	geckodriver	INFO	Listening on 127.0.0.1:61388
+1664367168778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilem5h6BP"
+1664367169102	Marionette	INFO	Marionette enabled
+1664367169107	Marionette	INFO	Listening on port 61398
+Read port: 61398
+WebDriver BiDi listening on ws://127.0.0.1:61389
+1664367169187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilem5h6BP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61389/devtools/browser/69c4ee2b-a9ef-40f7-8928-72e1ba1ef9ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664367251091	Marionette	INFO	Stopped listening on port 61398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664367397086	geckodriver	INFO	Listening on 127.0.0.1:61527
+1664367400131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileMZf8wI"
+1664367400468	Marionette	INFO	Marionette enabled
+1664367400472	Marionette	INFO	Listening on port 61537
+WebDriver BiDi listening on ws://127.0.0.1:61528
+Read port: 61537
+1664367400691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileMZf8wI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61528/devtools/browser/1a06ef0b-b3e9-4752-b2e8-64c5289388e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664369498302	Marionette	INFO	Stopped listening on port 61537
+
+WebDriver BiDi listening on ws://127.0.0.1:61676
+Read port: 61685
+1664367823702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileGvs6tb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61676/devtools/browser/ccc1256e-5d50-4c46-ade3-00550daea4f6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664367983988	Marionette	INFO	Stopped listening on port 61685
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilekm1O2R"
+1664367938120	Marionette	INFO	Marionette enabled
+1664367938124	Marionette	INFO	Listening on port 61804
+WebDriver BiDi listening on ws://127.0.0.1:61794
+Read port: 61804
+1664367938332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilekm1O2R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61794/devtools/browser/cfd284dc-b118-478b-b11d-61719b47a26b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664367981944	Marionette	INFO	Stopped listening on port 61804
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664368154236	geckodriver	INFO	Listening on 127.0.0.1:61921
+1664368157279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileGE3n3V"
+1664368157613	Marionette	INFO	Marionette enabled
+1664368157617	Marionette	INFO	Listening on port 61931
+Read port: 61931
+WebDriver BiDi listening on ws://127.0.0.1:61922
+1664368157704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileGE3n3V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61922/devtools/browser/f4abf7a7-96d0-4a2c-8bc4-3c0b05290e41
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664368177460	Marionette	INFO	Stopped listening on port 61931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664368218341	geckodriver	INFO	Listening on 127.0.0.1:62018
+1664368221389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileg6mkHV"
+1664368221721	Marionette	INFO	Marionette enabled
+1664368221725	Marionette	INFO	Listening on port 62028
+WebDriver BiDi listening on ws://127.0.0.1:62019
+Read port: 62028
+1664368221938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileg6mkHV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62019/devtools/browser/5f2763c3-1c68-454c-973a-547abf9fb5fe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664368311567	Marionette	INFO	Stopped listening on port 62028
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664368312911	geckodriver	INFO	Listening on 127.0.0.1:62121
+1664368315963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile4W4vjC"
+1664368316320	Marionette	INFO	Marionette enabled
+1664368316326	Marionette	INFO	Listening on port 62131
+WebDriver BiDi listening on ws://127.0.0.1:62122
+Read port: 62131
+1664368316553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile4W4vjC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62122/devtools/browser/f772ead8-3c4e-43b4-a372-0fc3ad7b488a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664368362164	Marionette	INFO	Stopped listening on port 62131
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664368371432	geckodriver	INFO	Listening on 127.0.0.1:62217
+1664368374499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62218" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileYZJ4Yc"
+1664368374838	Marionette	INFO	Marionette enabled
+1664368374844	Marionette	INFO	Listening on port 62227
+WebDriver BiDi listening on ws://127.0.0.1:62218
+Read port: 62227
+1664368375071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileYZJ4Yc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62218/devtools/browser/35594912-15bb-4128-8edc-52c2d2fa3e9d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664368393527	Marionette	INFO	Stopped listening on port 62227
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664368554408	geckodriver	INFO	Listening on 127.0.0.1:62338
+1664368557440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile27xjAt"
+1664368557779	Marionette	INFO	Marionette enabled
+1664368557783	Marionette	INFO	Listening on port 62348
+WebDriver BiDi listening on ws://127.0.0.1:62339
+Read port: 62348
+1664368557991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile27xjAt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62339/devtools/browser/a09fd98e-d31d-4048-851e-f87035b8d927
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664368585898	Marionette	INFO	Stopped listening on port 62348
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664368587293	geckodriver	INFO	Listening on 127.0.0.1:62439
+1664368590335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileii4UDa"
+1664368590665	Marionette	INFO	Marionette enabled
+1664368590670	Marionette	INFO	Listening on port 62452
+Read port: 62452
+WebDriver BiDi listening on ws://127.0.0.1:62440
+1664368590748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileii4UDa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62440/devtools/browser/9d01636b-bd63-4d99-b017-ad5d23eb541e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664368641442	Marionette	INFO	Stopped listening on port 62452
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664369500989	geckodriver	INFO	Listening on 127.0.0.1:62757
+1664369504036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilevbfdgu"
+1664369504390	Marionette	INFO	Marionette enabled
+1664369504394	Marionette	INFO	Listening on port 62767
+WebDriver BiDi listening on ws://127.0.0.1:62758
+Read port: 62767
+1664369504630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilevbfdgu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62758/devtools/browser/6c91c034-861f-4b32-8b60-e284f86f1757
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664370703706	Marionette	INFO	Stopped listening on port 62767
+[Parent 9492, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664370731658	geckodriver	INFO	Listening on 127.0.0.1:62964
+1664370734721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilel7M9E3"
+1664370735092	Marionette	INFO	Marionette enabled
+1664370735096	Marionette	INFO	Listening on port 62974
+WebDriver BiDi listening on ws://127.0.0.1:62965
+Read port: 62974
+1664370735298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilel7M9E3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62965/devtools/browser/72208327-aa1d-41d2-98f0-2c9af1a5a572
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664370740370	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1664370759817	Marionette	INFO	Stopped listening on port 62974
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664370761589	geckodriver	INFO	Listening on 127.0.0.1:63062
+1664370764632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilepD7Fwp"
+1664370764976	Marionette	INFO	Marionette enabled
+1664370764981	Marionette	INFO	Listening on port 63072
+WebDriver BiDi listening on ws://127.0.0.1:63063
+Read port: 63072
+1664370765198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilepD7Fwp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63063/devtools/browser/db79b499-b487-41eb-8560-c6cf24b6ae0f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664371474458	Marionette	INFO	Stopped listening on port 63072
+[Parent 19020, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+c-8175-5c4e20b0b8a2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664371464875	Marionette	INFO	Stopped listening on port 63242
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664371476602	geckodriver	INFO	Listening on 127.0.0.1:63327
+1664371479652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileubEaoG"
+1664371480018	Marionette	INFO	Marionette enabled
+1664371480022	Marionette	INFO	Listening on port 63337
+Read port: 63337
+WebDriver BiDi listening on ws://127.0.0.1:63328
+1664371480143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileubEaoG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63328/devtools/browser/e50b32bb-4d98-40f9-83e0-132e30c30b45
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664371764384	Marionette	INFO	Stopped listening on port 63337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilewGCTXA"
+1664371714570	Marionette	INFO	Marionette enabled
+1664371714574	Marionette	INFO	Listening on port 63467
+WebDriver BiDi listening on ws://127.0.0.1:63458
+Read port: 63467
+1664371714788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilewGCTXA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63458/devtools/browser/d24f0da8-824c-4e58-be50-c925aa7e3096
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664371753577	Marionette	INFO	Stopped listening on port 63467
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664371756320	geckodriver	INFO	Listening on 127.0.0.1:63562
+1664371759370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile8aDt21"
+1664371759689	Marionette	INFO	Marionette enabled
+1664371759693	Marionette	INFO	Listening on port 63572
+Read port: 63572
+WebDriver BiDi listening on ws://127.0.0.1:63563
+1664371759778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile8aDt21\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63563/devtools/browser/d23875d1-67ce-4ed1-9f84-7c6e896d57ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664371977443	Marionette	INFO	Stopped listening on port 63572
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+1664371861603	Marionette	INFO	Marionette enabled
+1664371861609	Marionette	INFO	Listening on port 63681
+WebDriver BiDi listening on ws://127.0.0.1:63672
+Read port: 63681
+1664371861815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileVhsupg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63672/devtools/browser/5741fed1-dcbe-40d7-adbb-ff1c851333bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664371971023	Marionette	INFO	Stopped listening on port 63681664371971107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63864" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileAJEaZ7"
+1664371971469	Marionette	INFO	Marionette enabled
+1664371971473	Marionette	INFO	Listening on port 63873
+WebDriver BiDi listening on ws://127.0.0.1:63864
+Read port: 63873
+1664371971694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileAJEaZ7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63864/devtools/browser/727bc2e4-73f8-41db-9769-f84f0dee93ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664372574472	Marionette	INFO	Stopped listening on port 63873
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilesvJGjG"
+1664372072336	Marionette	INFO	Marionette enabled
+1664372072340	Marionette	INFO	Listening on port 63992
+WebDriver BiDi listening on ws://127.0.0.1:63983
+Read port: 63992
+1664372072567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilesvJGjG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63983/devtools/browser/726ff9a3-de69-43dc-ba23-98d66d48b0fe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664372573476	Marionette	INFO	Stopped listening on port 63992
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664372799421	geckodriver	INFO	Listening on 127.0.0.1:64279
+1664372802462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64280" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilemga4ZC"
+1664372802800	Marionette	INFO	Marionette enabled
+1664372802805	Marionette	INFO	Listening on port 64289
+WebDriver BiDi listening on ws://127.0.0.1:64280
+Read port: 64289
+1664372803045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilemga4ZC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64280/devtools/browser/f2b07c59-44f2-4a31-b606-1ddfcd7e5d98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664372837200	Marionette	INFO	Stopped listening on port 64289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664374036700	geckodriver	INFO	Listening on 127.0.0.1:64645
+1664374039752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile0FS1OT"
+1664374040089	Marionette	INFO	Marionette enabled
+1664374040095	Marionette	INFO	Listening on port 64655
+WebDriver BiDi listening on ws://127.0.0.1:64646
+Read port: 64655
+1664374040309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile0FS1OT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64646/devtools/browser/348a5fdb-33aa-4ad6-8841-5adfa5f0a65b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664374253904	Marionette	INFO	Stopped listening on port 64655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664374708392	geckodriver	INFO	Listening on 127.0.0.1:64827
+1664374711421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64828" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile47Oxr7"
+1664374711739	Marionette	INFO	Marionette enabled
+1664374711744	Marionette	INFO	Listening on port 64837
+Read port: 64837
+WebDriver BiDi listening on ws://127.0.0.1:64828
+1664374711823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile47Oxr7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64828/devtools/browser/b31c9fa8-6d70-44fb-8129-fbd9fb264f7e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://t-cf.bstatic.com/static/js/searchresults_cft/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+1664375412119	Marionette	INFO	Stopped listening on port 64837
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+1664374813514	Marionette	INFO	Marionette enabled
+1664374813518	Marionette	INFO	Listening on port 64952
+WebDriver BiDi listening on ws://127.0.0.1:64943
+Read port: 64952
+1664374813733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilenOwR2P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64943/devtools/browser/27af7ee3-1bc0-442c-8d28-51ffad95d42c
+1664375413128	Marionette	INFO	Stopped listening on port 64952
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilefi2MtA"
+1664374987860	Marionette	INFO	Marionette enabled
+1664374987868	Marionette	INFO	Listening on port 64992
+WebDriver BiDi listening on ws://127.0.0.1:64983
+Read port: 64992
+1664374988083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilefi2MtA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64983/devtools/browser/a8a66f44-feee-4e8b-bf32-958cb9cbb3da
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.booking.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Unable to find target with innerWindowId:4294967319"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967319"
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/e3537467dbf9f391fd5339e5a42b0e96897bf518.js, line 1: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:4294967319"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967342/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967342/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967342/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:301:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664376151337	Marionette	INFO	Stopped listening on port 64992
+[Parent 18092, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
